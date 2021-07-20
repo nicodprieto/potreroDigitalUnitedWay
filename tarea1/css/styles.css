@@ -1,0 +1,26 @@
+/* Defino mi selector de etiqueta para h1 y modifico propiedades de mi elemento */
+h1{
+  color:white;
+  background-color: rgb(202, 3, 3);
+  font-size: 35px;
+}
+/* defino mi selector de etiqueta para mi subtitulo h2 y modifico propiedades del elemento */
+h2{
+color: rgb(255,255,255);
+background-color: rgb(202, 3, 3);
+font-size: 20px;
+}
+/* defino mi selector de etiqueta para mi parrafo y modifico propiedades del elemento */
+p{
+  background-color: rgba(3, 202, 79, 0.41);
+  color: white;
+  font-size: 20px;
+}
+/* Defino mi selector de clase y modifico la propiedad del color que aplicare a mis hipervinculos */
+.colorNegro{
+  color:rgb(0,0,0);
+}
+/* Defino mi selector de clase y modifico la propiedad que quita el subrayado a los hipervinculos */
+.sinSub{
+text-decoration: none;
+}
